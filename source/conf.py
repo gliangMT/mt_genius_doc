@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Moore Threads AI Doc'
+project = 'Moore Threads GGN Doc'
 copyright = '2024, Moore Threads'
 author = 'Moore Threads GPU Genius Team'
 release = 'v0.1'

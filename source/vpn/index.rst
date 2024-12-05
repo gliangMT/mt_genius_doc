@@ -7,4 +7,4 @@
    :maxdepth: 1
    :caption: Contents:
 
-   vllm_mtt
+   vpn_doc
