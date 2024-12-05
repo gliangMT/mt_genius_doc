@@ -10,7 +10,7 @@ Welcome to Moore Threads GGN Doc!
    :maxdepth: 3
    :caption: Contents:
 
-   :doc: `vpn/vpn_doc`
+   vpn/vpn_doc
 
 Indices and tables
 ==================
