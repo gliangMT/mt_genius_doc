@@ -3,16 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MT GPU Playground!
-================================================
-
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-   vpn/vpn_doc
-   musify/musify_doc
-
-
-
-
+   musify_doc

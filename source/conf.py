@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Moore Threads GGN Doc'
+project = 'MTGPUPlayground'
 copyright = '2024, Moore Threads'
 author = 'Moore Threads GPU Genius Team'
 release = 'v0.1'
@@ -29,4 +29,6 @@ language = 'zh_CN'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_book_theme'
+
+
 html_static_path = ['_static']
