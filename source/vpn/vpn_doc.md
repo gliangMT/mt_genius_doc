@@ -1,6 +1,6 @@
-# 登录中联集群和光环集群
+# 登录KUAE集群
 
-> 中联集群环境和光环集群环境皆为摩尔线程GPU集群（[MTT KUAE](https://www.mthreads.com/product/KUAE)），提供给用户体验和测试
+> MT-GPU集群（[MTT KUAE](https://www.mthreads.com/product/KUAE)），提供给用户体验和测试
 
 
 1. 下载UniVPN:
