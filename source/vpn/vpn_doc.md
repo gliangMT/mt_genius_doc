@@ -1,6 +1,6 @@
 # 登录KUAE集群
 
-> MT-GPU集群（[MTT KUAE](https://www.mthreads.com/product/KUAE)），提供给用户体验和测试
+> [MTT KUAE](https://www.mthreads.com/product/KUAE)可进行体验和测试
 
 
 1. 下载UniVPN:
